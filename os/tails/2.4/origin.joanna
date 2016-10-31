@@ -1,0 +1,8 @@
+Downloaded from https://tails.boum.org/install/download/openpgp/index.en.html
+Used the following key for verification and the attached signature file:
+    pub   4096R/58ACD84F 2015-01-18 [expires: 2017-01-11]
+    Key fingerprint = A490 D0F4 D311 A415 3E2B  B7CA DBB8 02B2 58AC D84F
+    uid                  Tails developers (offline long-term identity key) <tails@boum.org>
+    uid                  Tails developers <tails@boum.org>
+    sub   4096R/752A3DB6 2015-01-18 [expires: 2017-01-11]
+    sub   4096R/2F699C56 2015-01-18 [expires: 2017-01-11]
