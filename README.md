@@ -129,12 +129,12 @@ The following command should be used to create the `hash` file:
 
 # FAQ
 
-* How do you obtain the hashes that are in the repo?
+## How do you obtain the hashes that are in the repo?
 
 The steps are give in the corresponding `orign.{id}` files, where `{id}`
 identifies the witness (key) who checked the hash.
 
-* Why a git repo?
+## Why a git repo?
 
 A git repository can be trivially cloned, archived, and forked. It can also be
 easily hosted for free at a number of public services, such as GitHub.
@@ -143,20 +143,20 @@ Additionally, it provides tracked history of changes and integrity (through
 signed tags and/or commits), which can be thought of as an additional security
 mechanism to the explicit GPG signatures we display.
 
-* Do you make any guarantees about the software included here?
+## Do you make any guarantees about the software included here?
 
 No, please see Disclaimers.
 
-* Do you assume we must trust GitHub (or any other hosting service)?
+## Do you assume we must trust GitHub (or any other hosting service)?
 
 No, you should always verify GPG digital signatures to check integrity of any
 information contained herein.
 
-* Are you going to accept submission about hashes from anybody?
+##  Are you going to accept submission about hashes from anybody?
 
 No, please see Disclaimers.
 
-* Can I fork this?
+## Can I fork this?
 
 Yes, please see the License section below.
 
