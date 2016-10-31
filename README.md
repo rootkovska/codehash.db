@@ -70,11 +70,14 @@ Here's an example:
     codehash.io/os/qubes/
     ├── 3.2
     │   ├── hash
-    │   └── origin.joanna
+    │   ├── hash.sig.joanna
+    │   ├── origin.joanna
+    │   └── origin.sig.joanna
     └── vendor_keys
         ├── origin.joanna
         ├── qubes-master-key.asc
         └── qubes-release-3-signing-key.asc
+
  
 The following command should be used to create the `hash` file:
 
@@ -83,18 +86,16 @@ The following command should be used to create the `hash` file:
 
 # Example
 
+    codehash.io/
     ├── apps
     ├── firmware
-    │   └── openwrt
-    │       ├── 15.05.1-src
-    │       └── 15.05-src
-    │           ├── hash
-    │           └── origin.joanna
     ├── os
     │   ├── qubes
     │   │   ├── 3.2
     │   │   │   ├── hash
-    │   │   │   └── origin.joanna
+    │   │   │   ├── hash.sig.joanna
+    │   │   │   ├── origin.joanna
+    │   │   │   └── origin.sig.joanna
     │   │   └── vendor_keys
     │   │       ├── origin.joanna
     │   │       ├── qubes-master-key.asc
@@ -104,11 +105,16 @@ The following command should be used to create the `hash` file:
     │   └── tails
     │       ├── 2.4
     │       │   ├── hash
+    │       │   ├── hash.sig.joanna
     │       │   ├── origin.joanna
+    │       │   ├── origin.sig.joanna
     │       │   └── tails-i386-2.4.iso.sig
     │       ├── 2.6
     │       │   ├── hash
-    │       │   └── origin.joanna
+    │       │   ├── hash.sig.joanna
+    │       │   ├── origin.joanna
+    │       │   ├── origin.sig.joanna
+    │       │   └── tails-i386-2.6.iso.sig
     │       └── vendor_keys
     │           ├── origin.joanna
     │           └── tails-signing-key-2015.asc
