@@ -54,7 +54,8 @@ statements from various witnesses of the following form:
     I -- {id} -- have downloaded the software `XYZ`, attempted the best
     verification I could made, and observed it hashes into what is written in
     the `hash` file. The steps I followed to calculate the hash are given in
-    `origin.{id}` file.
+    `origin.{id}` file. I sign this statement with two detached signatures
+    placed in `hash.sig.{id}` and `origin.sig.{id}`.
     
     I attach my public keys in `witnesses/keys/{id}.key` and also provide steps
     to establish my identity and verify my key in `witnesses/{id}` file.
