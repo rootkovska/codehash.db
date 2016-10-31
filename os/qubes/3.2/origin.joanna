@@ -1,0 +1,4 @@
+The Qubes OS project provides signed hashes for each installer here:
+https://github.com/QubesOS/qubes-secpack/tree/master/digests
+
+These digest files have been verified using the Qubes release key attached.
