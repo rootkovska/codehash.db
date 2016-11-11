@@ -67,7 +67,7 @@ directories:
 
 Here's an example:
 
-    codehash.io/os/qubes/
+    codehash.db/os/qubes/
     ├── 3.2
     │   ├── hash
     │   ├── hash.sig.joanna
@@ -86,7 +86,7 @@ The following command should be used to create the `hash` file:
 
 # Example
 
-    codehash.io/
+    codehash.db/
     ├── apps
     ├── firmware
     ├── os
