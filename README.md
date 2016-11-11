@@ -15,7 +15,7 @@ integrity of the software.
 
 It's probably quite obvious what does _integrity_ mean? Integrity assurance
 guarantees that the software has not be tampered nor replaced anywhere between
-its author and us.
+its author and its users.
 
 It might be less obvious that integrity does not imply trustworthiness,
 understood as security or non-harmfulness. Indeed, there is nothing that could
@@ -24,9 +24,9 @@ software and properly signing it with his or her key.
 
 Moreover, there is nothing that stops others from generating their own keys,
 adding whatever description strings to the keys (e.g. "Linux Kernel signing
-key"), and using these keys to sign modified copies of the software. In other to
+key"), and using these keys to sign modified copies of the software. In order to
 protect against such attacks, the software author needs to somehow ensure that
-all the interested people could easily be able to find out which key is the
+all the interested people could easily find out which key is the
 original signing key. This is typically achieved by publishing the keys in
 various places, such as on twitter, keybase.io, etc.
 
@@ -52,11 +52,11 @@ available database of software _hashes_. The database is a collection of
 statements from various witnesses of the following form:
 
     I -- {id} -- have downloaded the software `XYZ`, attempted the best
-    verification I could made, and observed it hashes into what is written in
+    verification I could make, and observed it hashes into what is written in
     the `hash` file. The steps I followed to calculate the hash are given in
     `origin.{id}` file. I sign this statement with two detached signatures
     placed in `hash.sig.{id}` and `origin.sig.{id}`.
-    
+
     I attach my public keys in `witnesses/keys/{id}.key` and also provide steps
     to establish my identity and verify my key in `witnesses/{id}` file.
 
@@ -78,7 +78,7 @@ Here's an example:
         ├── qubes-master-key.asc
         └── qubes-release-3-signing-key.asc
 
- 
+
 The following command should be used to create the `hash` file:
 
     sha256 <file_to_hash> > hash
