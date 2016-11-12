@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Downloaded from: https://mirrors.kernel.org/qubes/iso/Qubes-R3.2-x86_64.iso
+
+Verified successfully with the Qubes Release 3 Signing Key, which is in turn
+signed by the Qubes Master Signing Key.
+
+In addition, the Qubes OS project provides signed hashes for each ISO:
+
+https://github.com/QubesOS/qubes-secpack/tree/master/digests
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJYJmAtAAoJENtN07w5UDAwAH4QALaFMgnh04d+SxMn8v6zIqNz
+D3JfUDFvt+iNMAKi7aj2Hm4wcLjOIKLm+pNMxY/Q38NtAp7gQ5p+LBJVXG8bWNen
+9RwQnyrx/yFmmfEq59ge5ZD5eHN160WcmFzY5ZYInZxIgnRgy6PGwCAtKWCQXfz5
+47rFqs9D+Ai5jnJ7Te6BLOfzfs+80L1k7aO2T2puGzwqPbydfIpgkMTOWcSO93h5
++/AWICL2V5UhyG5xY4zXxUnBKClUvzfhmaUOYyIdZxm9zQfvcSZ8wKO5FwYS3tW1
+UTvgr60QmRkMFT3hSsqub7s9o0mMS/tfwMlwha/Og3G6YhY9UadPWkHMNEEYHNtC
+du4UyA5LD2YMFbPMOpAh7yUzA/zBywbkFLqwPz0/+o8sgOlQKA1Kg0+IfzvhL2+W
+TPAX/daqbZMPlD+Xbf7tDsHGo4zWQhy0N/JmlTYNtBKRViTGlBaOYnB1z8cx+DAE
+QwmK2srSf07vO/znMz/jF6efyyRpfJ50gBTCqIybxNwhwg9vONU7ERQZxIZ51rgM
+A6CtcbJuZIWBsZ6/onJykx15DKqWucDwvgNszFzBs+vdC6o4GvCgRROpdF8qnF8X
+1VF8B2T5V/0AgHBcnXGrsKLR4sHKGaDOIhzJtHtL5hJiC2VdCP00+HzCpe2a+PnC
+ykvQzKOqdB9RtC8ONmHD
+=WlQb
+-----END PGP SIGNATURE-----
