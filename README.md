@@ -1,7 +1,7 @@
-Public Database of Software Hashes
-===================================
+A Public Database of Software and Firmware Hashes
+=================================================
 
-## Problem with software authenticity
+## The problem of software authenticity
 
 We all use software. Everywhere. From our servers, to our personal computers and
 phones (which are becoming extensions of our brains, BTW). From our Mars
@@ -38,7 +38,7 @@ All the above scenarios are of concern when the original author has made an
 effort and actually attempted to sign their software. Yet, most of the software
 is offered without any kind of signature for verification.
 
-## Proposed solution
+## The proposed solution
 
 Ideally we would like to have a simple oracle that answers a simple question: is
 this software safe to install and run? Unfortunately, as briefly explained above
@@ -144,16 +144,16 @@ mechanism to the explicit GPG signatures we display.
 
 ### Do you make any guarantees about the software included here?
 
-No, please see Disclaimers.
+No, please see the [Disclaimers](#disclaimers).
 
 ### Do you assume we must trust GitHub (or any other hosting service)?
 
 No, you should always verify GPG digital signatures to check integrity of any
 information contained herein.
 
-### Are you going to accept submission about hashes from anybody?
+### Do you accept submission from anyone?
 
-No, please see Disclaimers.
+No, please see the [Disclaimers](#disclaimers).
 
 ### Can I fork this?
 
