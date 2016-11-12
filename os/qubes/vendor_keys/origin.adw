@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I have verified the Qubes Master Signing Key through countless channels over
+many years, and I have verified that each Release Signing Key is signed by the
+Qubes Master Signing Key.
+
+The Qubes Master Signing Key fingerprint is:
+
+427F 11FD 0FAA 4B08 0123  F01C DDFA 1A3E 3687 9494
+
+In addition, I maintain the following signed record of fingerprints:
+
+https://andrewdavidwong.com/fingerprints.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJYJl9DAAoJENtN07w5UDAwyioQAJ3CGJf+tzlINeTD0eBBhA+I
+la6du2HOjHqEtaB8N1jGVtdbRTjjYUtRibdsaKIDBQBD7WASv9OvLC1NTWddVMfr
+qZekRvKRXX4Kbra4/AR8mrBReS2U3A7rp47ELpYGPCmzMIJt8NIJHUWPO2IIkhwN
+PXE3Um0qpAPzxUMaCe1liJVNrmiNukWfbqpWoWIxGqX4JxsW/RVgcHT9+g8ruQQm
+I3EKNWmOUYSEKu0eQz/W22/iljHcdEkiSvFSvdMo6pGx71+qL6HPBjqXuISL026O
+ZoxEk8FGxFXM98mrCW6yZLlO0k/pZpZyoKT3rQD9sQUYjK+YMIxqIsrrW1x4VAqX
+hYzwevu3QIb3BdKVkfi73LBAd6V+fV4S2oSZ0DhhNeAi8PM9EDsxiF2hBaVjxbo8
+6f6PS7pz1MKgdjcTpkKuqOlTjEz8jY5ICux0dRc3RxTvLZBaT+QtzTIxSKLQxAJi
+NPM88CHqsEF+XsZXs/1OItcMZDcATb/VysgNQ87GQzACcyrDKP38JYkMY99+1Vex
++VKZV3s++82LpxIT8QDuTsRC+UjG7Uyb1889wS3fyXYkXkjY5xwiXHs92/9G8MHs
+x1AtQzSfuYOXBNSNk9Dg8e+c6bWSh0Z+pK+rhbIpZ2WHTgDR7TI1xVHDB/0sELGh
+AHX8Spxycy2vbzbz9NnI
+=zt2z
+-----END PGP SIGNATURE-----
